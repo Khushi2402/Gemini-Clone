@@ -19,7 +19,7 @@ const Main = () => {
         ? <>
         <div className="greet">
           <p>
-            <span>Hello, KK.</span>
+            <span>Hello, Mate.</span>
           </p>
           <p>How can I help you today?</p>
         </div>
